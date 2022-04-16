@@ -20,7 +20,8 @@
 
 | [<img src="https://avatars0.githubusercontent.com/u/32919057?s=100"><br><sub>Pedro Henrique</sub>](https://github.com/Pr3d4dor) |
 
-Falecom - Pedro
+Falecom - Pedro :beer:
 ---
 E-mail * : <pedrodevphp@gmail.com>
 Whatsapp: [Nosso Zap!](https://api.whatsapp.com/send?phone=5588997909090)
+
