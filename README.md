@@ -7,7 +7,7 @@
 
 ### Implementações Novas. 
 
-- Adicionado Apostila Passageiros.
+- Adicionado Apostila Passageiros. Em: 16/04/2022.
 
 ### Desenvolvedor
 | [<img src="https://avatars0.githubusercontent.com/u/32919057?s=100"><br><sub>Pedro Henrique</sub>](https://github.com/Pr3d4dor) |
