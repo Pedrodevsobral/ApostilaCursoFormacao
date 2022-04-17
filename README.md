@@ -12,11 +12,20 @@
 
 *[Baixar Apostila](https://github.com/Pedrodevsobral/ApostilaCursoFormacao/raw/main/APOSTILA%20COLETIVO%2050%20HORAS%202021.pdf "Apostila Transporte de Passageiros.")*
 
+***
+# Nocoes de Direcao Segura. 
+
+---
+*[Baixar Apostila](https://github.com/Pedrodevsobral/ApostilaCursoFormacao/raw/main/APOSTILA%20COLETIVO%2050%20HORAS%202021.pdf "Apostila Transporte de Passageiros.")*
+
+***
+
 ### Implementações Novas.
 
 
 > - Adicionado Apostila Passageiros. Em: 16/04/2022.
 > - Adicionado Apostila Transporte Escolar. Em: 16/04/2022.
+> - Adicionado Apostila Nocoes de Direcao Segura. Em: 17/04/2022.
 
 ### Desenvolvedor
 
